@@ -1,6 +1,7 @@
 import requests
 
 url = 'http://127.0.0.1:5000/subir'
+##cambiar ruta de archivo
 ruta_archivo = "C:/Users/hanni/OneDrive/Pictures/comb3.png"
 
 with open(ruta_archivo, 'rb') as file:
