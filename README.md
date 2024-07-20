@@ -1,9 +1,8 @@
 # My Image Processing API
 
-## Overview
 API simple de Flask, recibe una imagen y regresa información sobre esta en un JSON 
 
-## Dependencies
+## Dependencias
 El proyecto usa las paqueterías de python: 
 
 Flask==3.0.3
@@ -40,7 +39,7 @@ Para instalar el proyecto debe seguir los siguientes pasos
     ```
 
 ## Correr la aplicación
-To run the Flask application, use the following command:
+
 ```sh
 python api.py
 
